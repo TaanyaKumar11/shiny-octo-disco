@@ -1,0 +1,20 @@
+img {
+    width: 800px;
+  }
+
+body { 
+    background: #1f1f1f; 
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategray; 
+}
+
+button {
+    background-color: lightslategray; /* Change this to your desired color */
+    color: white; /* Text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Button padding */
+    font-size: 16px; /* Font size */
+    font-family: 'Courier New', Courier, monospace; /* Font */
+}
+
+
