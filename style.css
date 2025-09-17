@@ -17,6 +17,9 @@ button {
   font-family: 'Courier New', Courier, monospace; /* Font */
 }
 
+h1 {
+  font-size: 24px; 
+}
 
 .header{
   position: sticky;
@@ -24,4 +27,5 @@ button {
   padding: 10px 16px;
   background: black;
   color: #f1f1f1;
+  font-size: 24px; 
 }
