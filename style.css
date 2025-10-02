@@ -31,6 +31,9 @@ h1 {
   width: 100%; 
 }
 
+body {
+  padding-bottom: 60px; 
+}
 
 footer{ 
   position: fixed; 
@@ -40,4 +43,5 @@ footer{
   background: black;
   color: #f1f1f1;
   font-size: 12px; 
+  text-align: center; 
 }
